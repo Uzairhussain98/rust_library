@@ -1,10 +1,10 @@
 [package]
 name = "string_len"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Uzair Hussain"]
 edition = "2018"
 description = "library that calculate string length"
-licence = "MIT" 
+license = "MIT" 
 repository = "https://github.com/Uzairhussain98/rust_library"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
